@@ -1,0 +1,49 @@
+/* This is for the styling of the index.html file */
+
+.a {
+    font-family: Verdana, Arial, sans-serif;
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 8px;
+    border: 2px;
+    margin: 8px;
+}
+
+.box {
+    padding-left: 50px;
+}
+
+.box1 {
+    padding: 8px;
+    border: 2px;
+    margin: 8px;
+    list-style-position: inside;
+}
+
+.box2 {
+    padding: 8px;
+    border: 2px;
+    margin: 8px;
+    list-style-position: inside;
+}
+
+.box3 {
+    padding: 8px;
+    border: 2px;
+    margin: 8px;
+    list-style-position: inside;
+}
+
+/* This is for the styling of the agliooglio.html file */
+
+/* This is for the styling of the biryani.html file */
+
+.b {
+    font-family: Verdana, Arial, sans-serif;
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 8px;
+    border: 2px;
+    margin: 8px;
+
+/* This is for the styling of the tunarolls.html file */
