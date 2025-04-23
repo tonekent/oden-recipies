@@ -1,4 +1,4 @@
-/* This is for the styling of the index.html file */
+/* This is for the styling of all html file in this project */
 
 .a {
     font-family: Verdana, Arial, sans-serif;
@@ -7,6 +7,7 @@
     padding: 8px;
     border: 2px;
     margin: 8px;
+    width: 1200px;
 }
 
 .box {
@@ -34,16 +35,6 @@
     list-style-position: inside;
 }
 
-/* This is for the styling of the agliooglio.html file */
-
-/* This is for the styling of the biryani.html file */
-
-.b {
-    font-family: Verdana, Arial, sans-serif;
-    text-align: center;
-    background-color: blanchedalmond;
-    padding: 8px;
-    border: 2px;
-    margin: 8px;
-
-/* This is for the styling of the tunarolls.html file */
+.list {
+    list-style-position: inside;
+}
